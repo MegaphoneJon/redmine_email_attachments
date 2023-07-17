@@ -22,3 +22,7 @@ bundle install
 ## Compatibility
 
 The latest version of this plugin is only tested with Redmine 5.
+
+## Areas for improvement
+* Combining this with [redmine_email_images](https://www.redmine.org/plugins/redmine_email_images) causes the attachment to be added twice.  It appears fine but the email is larger.
+* Ideally we wouldn't hard-code the images directory to `/usr/src/redmine/files`.  Patches welcome.
