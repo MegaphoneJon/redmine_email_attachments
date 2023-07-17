@@ -1,6 +1,6 @@
 # Redmine Email Images
 
-The plugin address this issue: http://www.redmine.org/issues/2770. 
+The plugin address this issue: http://www.redmine.org/issues/3760. 
 
 ## Description
 
@@ -15,7 +15,7 @@ To install the plugin clone the repo
 
 ```
 cd /path/to/redmine/
-git clone git@github.com:INSANEWORKS/redmine_email_images.git plugins/redmine_email_images
+git clone https://github.com/MegaphoneJon/redmine_email_attachments.git
 bundle install
 ```
 
