@@ -7,7 +7,7 @@ Redmine::Plugin.register :redmine_email_attachments do
   name 'Redmine Email Attachments plugin'
   author 'Jon Goldberg'
   description 'Send attachments directly in notification emails.'
-  version '0.2.0'
+  version '0.2.1'
   url 'http://github.com/MegaphoneJon/redmine_email_attachments'
   author_url 'http://megaphonetech.com'
 end
